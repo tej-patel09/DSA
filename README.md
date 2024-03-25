@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DSA
 This repository contains implementations of various data structures and algorithms in Python and PHP.
 =======
@@ -64,5 +63,4 @@ If you find any issues or have suggestions for improvement, contributions are we
 
 ## Contact
 
-If you have any questions or would like to connect, you can reach me via [LinkedIn](linkedin.com/in/tejpatel-9bba24222) 
->>>>>>> master
+If you have any questions or would like to connect, you can reach me via [LinkedIn](linkedin.com/in/tejpatel-9bba24222)
